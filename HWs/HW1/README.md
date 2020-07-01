@@ -1,7 +1,7 @@
 **Uzdevuma apraksts**:
 Analysis of Windows Event logs using Pandas Dataframe
 
-DataFrames allow you to store and manipulate tabular data in rows of observations and columns of variables.
+***DataFrames ļauj uzglabāt un manipulēt ar tabulas datiem novērojumu rindās un mainīgo slejās.***
 
 [pandas dataframe](https://pandas.pydata.org/pandas-docs/stable/getting_started/dsintro.html)
 
