@@ -5,6 +5,6 @@ DataFrames allow you to store and manipulate tabular data in rows of observation
 
 [pandas dataframe](https://pandas.pydata.org/pandas-docs/stable/getting_started/dsintro.html)
 
-Windows notikumu žurnāls ir detalizēts sistēmas, drošības un lietojumprogrammu paziņojumi, ko glabā Windows operētājsistēma, reģistrs, ko administratori izmanto, lai diagnosticētu sistēmas problēmas un prognozētu problēmas nākotnē. -> [links uz informāciju](https://searchwindowsserver.techtarget.com/definition/Windows-event-log)
+Windows notikumu žurnāls ir detalizēts sistēmas, drošības un lietojumprogrammu paziņojumi, ko glabā Windows operētājsistēma, reģistrs, ko administratori izmanto, lai diagnosticētu sistēmas problēmas un prognozētu problēmas nākotnē. -> [informācijas avots](https://searchwindowsserver.techtarget.com/definition/Windows-event-log)
 
 [Pandas Basics](https://www.learnpython.org/en/Pandas_Basics)
