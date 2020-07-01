@@ -5,4 +5,4 @@ Analysis of Windows Event logs using Pandas Dataframe
 
 Windows notikumu žurnāls ir detalizēts sistēmas, drošības un lietojumprogrammu paziņojumi, ko glabā Windows operētājsistēma, reģistrs, ko administratori izmanto, lai diagnosticētu sistēmas problēmas un prognozētu problēmas nākotnē.
 
-[Basics](https://www.learnpython.org/en/Pandas_Basics)
+[Pandas Basics](https://www.learnpython.org/en/Pandas_Basics)
