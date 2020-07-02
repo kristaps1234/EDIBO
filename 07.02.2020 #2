@@ -1,0 +1,1028 @@
+user@epk428-3:~$ VirtualBox --startvm XP
+user@epk428-3:~$ clear
+user@epk428-3:~$ history
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  pwd
+    4  c:/
+    5  pwd
+    6  c:\
+    7  clear
+    8  exit
+    9  VirtualBox --startvm XP
+   10  clear
+   11  history
+user@epk428-3:~$ 
+
+
+
+
+
+
+
+
+
+
+
+user@epk428-3:~$ 
+user@epk428-3:~$ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+user@epk428-3:~$ pwd
+/home/user
+user@epk428-3:~$ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+user@epk428-3:~$ pwd
+/home/user
+user@epk428-3:~$ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+user@epk428-3:~$ ls
+ Desktop     Downloads   Pictures   Templates  'VirtualBox VMs'
+ Documents   Music       Public     Videos
+user@epk428-3:~$ ls .
+ Desktop     Downloads   Pictures   Templates  'VirtualBox VMs'
+ Documents   Music       Public     Videos
+user@epk428-3:~$ ls
+ Desktop     Downloads   Pictures   Templates  'VirtualBox VMs'
+ Documents   Music       Public     Videos
+user@epk428-3:~$ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+user@epk428-3:~$ ls /
+bin   home            lib64       opt   sbin  tmp      vmlinuz.old
+boot  initrd.img      lost+found  proc  snap  usr
+dev   initrd.img.old  media       root  srv   var
+etc   lib             mnt         run   sys   vmlinuz
+user@epk428-3:~$ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+user@epk428-3:~$ ls /
+bin   home            lib64       opt   sbin  tmp      vmlinuz.old
+boot  initrd.img      lost+found  proc  snap  usr
+dev   initrd.img.old  media       root  srv   var
+etc   lib             mnt         run   sys   vmlinuz
+user@epk428-3:~$ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+user@epk428-3:~$ ls /home/
+sc  user
+user@epk428-3:~$ ls/home
+bash: ls/home: No such file or directory
+user@epk428-3:~$ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+user@epk428-3:~$ ls /home/
+sc  user
+user@epk428-3:~$ ls /home/user/
+ Desktop     Downloads   Pictures   Templates  'VirtualBox VMs'
+ Documents   Music       Public     Videos
+user@epk428-3:~$ ls
+ Desktop     Downloads   Pictures   Templates  'VirtualBox VMs'
+ Documents   Music       Public     Videos
+user@epk428-3:~$ ls .
+ Desktop     Downloads   Pictures   Templates  'VirtualBox VMs'
+ Documents   Music       Public     Videos
+user@epk428-3:~$ ls /home/user/
+ Desktop     Downloads   Pictures   Templates  'VirtualBox VMs'
+ Documents   Music       Public     Videos
+user@epk428-3:~$ ls .
+ Desktop     Downloads   Pictures   Templates  'VirtualBox VMs'
+ Documents   Music       Public     Videos
+user@epk428-3:~$ ls
+ Desktop     Downloads   Pictures   Templates  'VirtualBox VMs'
+ Documents   Music       Public     Videos
+user@epk428-3:~$ ls /home/
+sc  user
+user@epk428-3:~$ 
+
+user@epk428-3:~$ ls /home/user/
+ Desktop     Downloads   Pictures   Templates  'VirtualBox VMs'
+ Documents   Music       Public     Videos
+user@epk428-3:~$ ls /home/sc/
+ 01                                         patch.sh
+ Crack                                      Pictures
+ cvpcb-sc                                   proj
+ Desktop                                    Public
+ Documents                                  R
+ Downloads                                  restoreenv
+ e2fslibs_1.43.5-1_amd64.deb                rtl-sdr-0.5.3
+ e2fsprogs_1.43.5-1_amd64.deb               rtl-sdr_0.5.3-13_amd64.build
+ example_instructables.grc_                 rtl-sdr_0.5.3-13_amd64.buildinfo
+ fmtx.grc                                   rtl-sdr_0.5.3-13_amd64.changes
+ Hardware_Setup_App_for_RTL_SDR_Radio.txt   rtl-sdr_0.5.3-13_amd64.deb
+ kicad-sc                                   rtl-sdr_0.5.3-13.debian.tar.xz
+ librtlsdr0_0.5.3-13_amd64.deb              rtl-sdr_0.5.3-13.dsc
+ librtlsdr0-dbgsym_0.5.3-13_amd64.ddeb      rtl-sdr_0.5.3.orig.tar.gz
+ librtlsdr-dev_0.5.3-13_amd64.deb           rtl-sdr-dbgsym_0.5.3-13_amd64.ddeb
+'Matlab 2016b Linux64 Crack.rar'            Templates
+ MATLABDesktopSaveError.log                 test.sh
+ Music                                      tmp
+ network.lic                                untitled.grc
+ Notebooks                                  Videos
+user@epk428-3:~$ 
+user@epk428-3:~$ pwd
+/home/user
+user@epk428-3:~$ ls
+ Desktop     Downloads   Pictures   Templates  'VirtualBox VMs'
+ Documents   Music       Public     Videos
+user@epk428-3:~$ cd
+user@epk428-3:~$ pwd
+/home/user
+user@epk428-3:~$ dektop
+dektop: command not found
+user@epk428-3:~$ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+user@epk428-3:~$ /desktop/
+bash: /desktop/: No such file or directory
+user@epk428-3:~$ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+user@epk428-3:~$ pwd
+/home/user
+user@epk428-3:~$ ls
+ Desktop     Downloads   Pictures   Templates  'VirtualBox VMs'
+ Documents   Music       Public     Videos
+user@epk428-3:~$ cd
+user@epk428-3:~$ Desktop
+Desktop: command not found
+user@epk428-3:~$ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+user@epk428-3:~$ user/Desktop
+bash: user/Desktop: No such file or directory
+user@epk428-3:~$ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+user@epk428-3:~$ /user/desktop/
+bash: /user/desktop/: No such file or directory
+user@epk428-3:~$ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+user@epk428-3:~$ /home/user/desktop]
+bash: /home/user/desktop]: No such file or directory
+user@epk428-3:~$ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+user@epk428-3:~$ home/user/desktop/
+bash: home/user/desktop/: No such file or directory
+user@epk428-3:~$ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+user@epk428-3:~$ pwd
+/home/user
+user@epk428-3:~$ ls
+ Desktop     Downloads   Pictures   Templates  'VirtualBox VMs'
+ Documents   Music       Public     Videos
+user@epk428-3:~$ cd
+user@epk428-3:~$ cd Desktop
+user@epk428-3:~/Desktop$ ls
+user@epk428-3:~/Desktop$ 
+user@epk428-3:~/Desktop$ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+user@epk428-3:~/Desktop$ history
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  pwd
+    4  c:/
+    5  pwd
+    6  c:\
+    7  clear
+    8  exit
+    9  VirtualBox --startvm XP
+   10  clear
+   11  history
+   12  pwd
+   13  ls
+   14  ls .
+   15  ls
+   16  ls /
+   17  ls /home/
+   18  ls/home
+   19  ls /home/
+   20  ls /home/user/
+   21  ls
+   22  ls .
+   23  ls /home/user/
+   24  ls .
+   25  ls
+   26  ls /home/
+   27  ls /home/user/
+   28  ls /home/sc/
+   29  pwd
+   30  ls
+   31  cd
+   32  pwd
+   33  dektop
+   34  /desktop/
+   35  pwd
+   36  ls
+   37  cd
+   38  Desktop
+   39  user/Desktop
+   40  /user/desktop/
+   41  /home/user/desktop]
+   42  home/user/desktop/
+   43  pwd
+   44  ls
+   45  cd
+   46  cd Desktop
+   47  ls
+   48  history
+user@epk428-3:~/Desktop$ 
+user@epk428-3:~/Desktop$ ls
+user@epk428-3:~/Desktop$ cd 1
+bash: cd: 1: No such file or directory
+user@epk428-3:~/Desktop$ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+user@epk428-3:~/Desktop$ ls
+user@epk428-3:~/Desktop$ 
+user@epk428-3:~/Desktop$ mk
+mk: command not found
+user@epk428-3:~/Desktop$ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+user@epk428-3:~/Desktop$ ls
+user@epk428-3:~/Desktop$ mkdir
+mkdir: missing operand
+Try 'mkdir --help' for more information.
+user@epk428-3:~/Desktop$ mkdir --help
+Usage: mkdir [OPTION]... DIRECTORY...
+Create the DIRECTORY(ies), if they do not already exist.
+
+Mandatory arguments to long options are mandatory for short options too.
+  -m, --mode=MODE   set file mode (as in chmod), not a=rwx - umask
+  -p, --parents     no error if existing, make parent directories as needed
+  -v, --verbose     print a message for each created directory
+  -Z                   set SELinux security context of each created directory
+                         to the default type
+      --context[=CTX]  like -Z, or if CTX is specified then set the SELinux
+                         or SMACK security context to CTX
+      --help     display this help and exit
+      --version  output version information and exit
+
+GNU coreutils online help: <http://www.gnu.org/software/coreutils/>
+Full documentation at: <http://www.gnu.org/software/coreutils/mkdir>
+or available locally via: info '(coreutils) mkdir invocation'
+user@epk428-3:~/Desktop$ 
+
+user@epk428-3:~/Desktop$ mkdir abc
+user@epk428-3:~/Desktop$ ABC
+ABC: command not found
+user@epk428-3:~/Desktop$ 
+user@epk428-3:~/Desktop$ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+user@epk428-3:~/Desktop$ mkdir abc
+mkdir: cannot create directory ‘abc’: File exists
+user@epk428-3:~/Desktop$ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+user@epk428-3:~/Desktop$ mkdir abc
+mkdir: cannot create directory ‘abc’: File exists
+user@epk428-3:~/Desktop$ mkdir ABC
+user@epk428-3:~/Desktop$ ls
+abc  ABC
+user@epk428-3:~/Desktop$ mkdir acb
+user@epk428-3:~/Desktop$ mkdir BAC
+user@epk428-3:~/Desktop$ mkdir bac
+user@epk428-3:~/Desktop$ mkdir cab
+user@epk428-3:~/Desktop$ ls
+abc  ABC  acb  bac  BAC  cab
+user@epk428-3:~/Desktop$ mkdir Abc
+user@epk428-3:~/Desktop$ mkdir ABc
+user@epk428-3:~/Desktop$ mkdir abC
+user@epk428-3:~/Desktop$ ls
+abc  abC  Abc  ABc  ABC  acb  bac  BAC  cab
+user@epk428-3:~/Desktop$ mkdir aBC
+user@epk428-3:~/Desktop$ date
+Thu Jul  2 16:37:38 EEST 2020
+user@epk428-3:~/Desktop$ ls
+abc  abC  aBC  Abc  ABc  ABC
+user@epk428-3:~/Desktop$ ls -l
+total 24
+drwxr-xr-x 2 user user 4096 Jul  2 15:36 abc
+drwxr-xr-x 2 user user 4096 Jul  2 15:38 abC
+drwxr-xr-x 2 user user 4096 Jul  2 16:36 aBC
+drwxr-xr-x 2 user user 4096 Jul  2 15:38 Abc
+drwxr-xr-x 2 user user 4096 Jul  2 15:38 ABc
+drwxr-xr-x 2 user user 4096 Jul  2 15:36 ABC
+user@epk428-3:~/Desktop$ ls -l
+total 24
+drwxr-xr-x 2 user user 4096 Jul  2 15:36 abc
+drwxr-xr-x 2 user user 4096 Jul  2 15:38 abC
+drwxr-xr-x 2 user user 4096 Jul  2 16:36 aBC
+drwxr-xr-x 2 user user 4096 Jul  2 15:38 Abc
+drwxr-xr-x 2 user user 4096 Jul  2 15:38 ABc
+drwxr-xr-x 2 user user 4096 Jul  2 15:36 ABC
+user@epk428-3:~/Desktop$ ls -l ABc
+total 0
+user@epk428-3:~/Desktop$ ls -lc
+total 24
+drwxr-xr-x 2 user user 4096 Jul  2 15:36 abc
+drwxr-xr-x 2 user user 4096 Jul  2 15:38 abC
+drwxr-xr-x 2 user user 4096 Jul  2 16:36 aBC
+drwxr-xr-x 2 user user 4096 Jul  2 15:38 Abc
+drwxr-xr-x 2 user user 4096 Jul  2 15:38 ABc
+drwxr-xr-x 2 user user 4096 Jul  2 15:36 ABC
+user@epk428-3:~/Desktop$ cd
+user@epk428-3:~$ 
+user@epk428-3:~$ pwd
+/home/user
+user@epk428-3:~$ cd
+user@epk428-3:~$ cd /
+bin/        home/       media/      root/       srv/        var/
+boot/       lib/        mnt/        run/        sys/        
+dev/        lib64/      opt/        sbin/       tmp/        
+etc/        lost+found/ proc/       snap/       usr/        
+user@epk428-3:~$ cd /etc
+user@epk428-3:/etc$ pwd
+/etc
+user@epk428-3:/etc$ ls
+acpi                           hostapd              pm
+adduser.conf                   host.conf            polkit-1
+alternatives                   hostname             popularity-contest.conf
+anacrontab                     hosts                ppp
+apache2                        hosts.allow          profile
+apg.conf                       hosts.deny           profile.d
+apm                            ifplugd              protocols
+apparmor                       ImageMagick          pulse
+apparmor.d                     ImageMagick-6        purple
+apport                         init                 python
+apt                            init.d               python2.7
+aqsis                          initramfs-tools      python3
+at.deny                        inputrc              python3.4
+at-spi2                        insserv              python3.6
+autohostname                   insserv.conf         qemu-ifdown
+avahi                          insserv.conf.d       qemu-ifup
+avrdude.conf                   iproute2             R
+avserver.conf                  iscsi                rarfiles.lst
+bash.bashrc                    issue                rc0.d
+bash_completion                issue.net            rc1.d
+bash_completion.d              java-11-openjdk      rc2.d
+bindresvport.blacklist         java-7-openjdk       rc3.d
+binfmt.d                       java-8-openjdk       rc4.d
+bluetooth                      kernel               rc5.d
+bonobo-activation              kernel-img.conf      rc6.d
+byobu                          landscape            rcS.d
+ca-certificates                ldap                 resolvconf
+ca-certificates.conf           ld.so.cache          resolv.conf
+ca-certificates.conf.dpkg-old  ld.so.conf           restoreenv
+calendar                       ld.so.conf.d         rmt
+catdocrc                       legal                rpc
+chatscripts                    libao.conf           rsyslog.conf
+chromium                       libaudit.conf        rsyslog.d
+chromium-browser               libblockdev          sane.d
+console-setup                  libibverbs.d         sasl2
+cowpoke.conf                   libnl-3              screenrc
+cracklib                       libpaper.d           securetty
+cron.d                         libreoffice          security
+cron.daily                     libvirt              selinux
+cron.hourly                    lightdm              sensors3.conf
+cron.monthly                   lighttpd             sensors.d
+crontab                        lintianrc            services
+cron.weekly                    locale.alias         sgml
+cups                           locale.gen           shadow
+cupshelpers                    localtime            shadow-
+dbus-1                         logcheck             shells
+dconf                          login.defs           signond.conf
+debconf.conf                   logrotate.conf       signon-ui
+debian_version                 logrotate.d          skel
+default                        lsb-release          sound
+deluser.conf                   ltrace.conf          ssh
+depmod.d                       lvm                  ssl
+devscripts.conf                machine-id           subgid
+dhcp                           magic                subgid-
+dictionaries-common            magic.mime           subuid
+dkms                           mailcap              subuid-
+dleyna-server-service.conf     mailcap.order        sudoers
+dnsmasq.d                      manpath.config       sudoers.d
+dnsmasq.d-available            matlab               sysctl.conf
+dpkg                           matplotlibrc         sysctl.d
+dput.cf                        mc                   systemd
+drirc                          mime.types           terminfo
+emacs                          mke2fs.conf          texmf
+environment                    modprobe.d           thermald
+ethertypes                     modules              timezone
+ffserver.conf                  modules-load.d       tmpfiles.d
+firefox                        mtab                 ts.conf
+fonts                          mtab.fuselock        ucf.conf
+fstab                          mysql                udev
+fuse.conf                      nanorc               udisks2
+gai.conf                       netplan              ufw
+gconf                          network              updatedb.conf
+gdb                            networkd-dispatcher  update-manager
+gEDA                           NetworkManager       update-motd.d
+geoclue                        networks             update-notifier
+ghostscript                    newt                 UPower
+glvnd                          nsswitch.conf        upstart-xsessions
+gnome                          obex-data-server     usb_modeswitch.conf
+gnome-system-tools             octave.conf          usb_modeswitch.d
+gnome-vfs-2.0                  ODBCDataSources      user-session
+gnuradio                       odbc.ini             vdpau_wrapper.cfg
+groff                          odbcinst.ini         vim
+group                          openal               vtrgb
+group-                         opt                  w3m
+grub.d                         os-release           wgetrc
+gshadow                        pam.conf             whoopsie
+gshadow-                       pam.d                wpa_supplicant
+gss                            papersize            X11
+gtk-2.0                        passwd               xdg
+gtk-3.0                        passwd-              xml
+guest-session                  pcmcia               zsh_command_not_found
+hdparm.conf                    perl
+user@epk428-3:/etc$ 
+user@epk428-3:/etc$ ls
+acpi                           hostapd              pm
+adduser.conf                   host.conf            polkit-1
+alternatives                   hostname             popularity-contest.conf
+anacrontab                     hosts                ppp
+apache2                        hosts.allow          profile
+apg.conf                       hosts.deny           profile.d
+apm                            ifplugd              protocols
+apparmor                       ImageMagick          pulse
+apparmor.d                     ImageMagick-6        purple
+apport                         init                 python
+apt                            init.d               python2.7
+aqsis                          initramfs-tools      python3
+at.deny                        inputrc              python3.4
+at-spi2                        insserv              python3.6
+autohostname                   insserv.conf         qemu-ifdown
+avahi                          insserv.conf.d       qemu-ifup
+avrdude.conf                   iproute2             R
+avserver.conf                  iscsi                rarfiles.lst
+bash.bashrc                    issue                rc0.d
+bash_completion                issue.net            rc1.d
+bash_completion.d              java-11-openjdk      rc2.d
+bindresvport.blacklist         java-7-openjdk       rc3.d
+binfmt.d                       java-8-openjdk       rc4.d
+bluetooth                      kernel               rc5.d
+bonobo-activation              kernel-img.conf      rc6.d
+byobu                          landscape            rcS.d
+ca-certificates                ldap                 resolvconf
+ca-certificates.conf           ld.so.cache          resolv.conf
+ca-certificates.conf.dpkg-old  ld.so.conf           restoreenv
+calendar                       ld.so.conf.d         rmt
+catdocrc                       legal                rpc
+chatscripts                    libao.conf           rsyslog.conf
+chromium                       libaudit.conf        rsyslog.d
+chromium-browser               libblockdev          sane.d
+console-setup                  libibverbs.d         sasl2
+cowpoke.conf                   libnl-3              screenrc
+cracklib                       libpaper.d           securetty
+cron.d                         libreoffice          security
+cron.daily                     libvirt              selinux
+cron.hourly                    lightdm              sensors3.conf
+cron.monthly                   lighttpd             sensors.d
+crontab                        lintianrc            services
+cron.weekly                    locale.alias         sgml
+cups                           locale.gen           shadow
+cupshelpers                    localtime            shadow-
+dbus-1                         logcheck             shells
+dconf                          login.defs           signond.conf
+debconf.conf                   logrotate.conf       signon-ui
+debian_version                 logrotate.d          skel
+default                        lsb-release          sound
+deluser.conf                   ltrace.conf          ssh
+depmod.d                       lvm                  ssl
+devscripts.conf                machine-id           subgid
+dhcp                           magic                subgid-
+dictionaries-common            magic.mime           subuid
+dkms                           mailcap              subuid-
+dleyna-server-service.conf     mailcap.order        sudoers
+dnsmasq.d                      manpath.config       sudoers.d
+dnsmasq.d-available            matlab               sysctl.conf
+dpkg                           matplotlibrc         sysctl.d
+dput.cf                        mc                   systemd
+drirc                          mime.types           terminfo
+emacs                          mke2fs.conf          texmf
+environment                    modprobe.d           thermald
+ethertypes                     modules              timezone
+ffserver.conf                  modules-load.d       tmpfiles.d
+firefox                        mtab                 ts.conf
+fonts                          mtab.fuselock        ucf.conf
+fstab                          mysql                udev
+fuse.conf                      nanorc               udisks2
+gai.conf                       netplan              ufw
+gconf                          network              updatedb.conf
+gdb                            networkd-dispatcher  update-manager
+gEDA                           NetworkManager       update-motd.d
+geoclue                        networks             update-notifier
+ghostscript                    newt                 UPower
+glvnd                          nsswitch.conf        upstart-xsessions
+gnome                          obex-data-server     usb_modeswitch.conf
+gnome-system-tools             octave.conf          usb_modeswitch.d
+gnome-vfs-2.0                  ODBCDataSources      user-session
+gnuradio                       odbc.ini             vdpau_wrapper.cfg
+groff                          odbcinst.ini         vim
+group                          openal               vtrgb
+group-                         opt                  w3m
+grub.d                         os-release           wgetrc
+gshadow                        pam.conf             whoopsie
+gshadow-                       pam.d                wpa_supplicant
+gss                            papersize            X11
+gtk-2.0                        passwd               xdg
+gtk-3.0                        passwd-              xml
+guest-session                  pcmcia               zsh_command_not_found
+hdparm.conf                    perl
+user@epk428-3:/etc$ 
+user@epk428-3:/etc$ ls 
+acpi                           hostapd              pm
+adduser.conf                   host.conf            polkit-1
+alternatives                   hostname             popularity-contest.conf
+anacrontab                     hosts                ppp
+apache2                        hosts.allow          profile
+apg.conf                       hosts.deny           profile.d
+apm                            ifplugd              protocols
+apparmor                       ImageMagick          pulse
+apparmor.d                     ImageMagick-6        purple
+apport                         init                 python
+apt                            init.d               python2.7
+aqsis                          initramfs-tools      python3
+at.deny                        inputrc              python3.4
+at-spi2                        insserv              python3.6
+autohostname                   insserv.conf         qemu-ifdown
+avahi                          insserv.conf.d       qemu-ifup
+avrdude.conf                   iproute2             R
+avserver.conf                  iscsi                rarfiles.lst
+bash.bashrc                    issue                rc0.d
+bash_completion                issue.net            rc1.d
+bash_completion.d              java-11-openjdk      rc2.d
+bindresvport.blacklist         java-7-openjdk       rc3.d
+binfmt.d                       java-8-openjdk       rc4.d
+bluetooth                      kernel               rc5.d
+bonobo-activation              kernel-img.conf      rc6.d
+byobu                          landscape            rcS.d
+ca-certificates                ldap                 resolvconf
+ca-certificates.conf           ld.so.cache          resolv.conf
+ca-certificates.conf.dpkg-old  ld.so.conf           restoreenv
+calendar                       ld.so.conf.d         rmt
+catdocrc                       legal                rpc
+chatscripts                    libao.conf           rsyslog.conf
+chromium                       libaudit.conf        rsyslog.d
+chromium-browser               libblockdev          sane.d
+console-setup                  libibverbs.d         sasl2
+cowpoke.conf                   libnl-3              screenrc
+cracklib                       libpaper.d           securetty
+cron.d                         libreoffice          security
+cron.daily                     libvirt              selinux
+cron.hourly                    lightdm              sensors3.conf
+cron.monthly                   lighttpd             sensors.d
+crontab                        lintianrc            services
+cron.weekly                    locale.alias         sgml
+cups                           locale.gen           shadow
+cupshelpers                    localtime            shadow-
+dbus-1                         logcheck             shells
+dconf                          login.defs           signond.conf
+debconf.conf                   logrotate.conf       signon-ui
+debian_version                 logrotate.d          skel
+default                        lsb-release          sound
+deluser.conf                   ltrace.conf          ssh
+depmod.d                       lvm                  ssl
+devscripts.conf                machine-id           subgid
+dhcp                           magic                subgid-
+dictionaries-common            magic.mime           subuid
+dkms                           mailcap              subuid-
+dleyna-server-service.conf     mailcap.order        sudoers
+dnsmasq.d                      manpath.config       sudoers.d
+dnsmasq.d-available            matlab               sysctl.conf
+dpkg                           matplotlibrc         sysctl.d
+dput.cf                        mc                   systemd
+drirc                          mime.types           terminfo
+emacs                          mke2fs.conf          texmf
+environment                    modprobe.d           thermald
+ethertypes                     modules              timezone
+ffserver.conf                  modules-load.d       tmpfiles.d
+firefox                        mtab                 ts.conf
+fonts                          mtab.fuselock        ucf.conf
+fstab                          mysql                udev
+fuse.conf                      nanorc               udisks2
+gai.conf                       netplan              ufw
+gconf                          network              updatedb.conf
+gdb                            networkd-dispatcher  update-manager
+gEDA                           NetworkManager       update-motd.d
+geoclue                        networks             update-notifier
+ghostscript                    newt                 UPower
+glvnd                          nsswitch.conf        upstart-xsessions
+gnome                          obex-data-server     usb_modeswitch.conf
+gnome-system-tools             octave.conf          usb_modeswitch.d
+gnome-vfs-2.0                  ODBCDataSources      user-session
+gnuradio                       odbc.ini             vdpau_wrapper.cfg
+groff                          odbcinst.ini         vim
+group                          openal               vtrgb
+group-                         opt                  w3m
+grub.d                         os-release           wgetrc
+gshadow                        pam.conf             whoopsie
+gshadow-                       pam.d                wpa_supplicant
+gss                            papersize            X11
+gtk-2.0                        passwd               xdg
+gtk-3.0                        passwd-              xml
+guest-session                  pcmcia               zsh_command_not_found
+hdparm.conf                    perl
+user@epk428-3:/etc$ 
+user@epk428-3:/etc$ ls | head
+acpi
+adduser.conf
+alternatives
+anacrontab
+apache2
+apg.conf
+apm
+apparmor
+apparmor.d
+apport
+user@epk428-3:/etc$ ls | tail
+vim
+vtrgb
+w3m
+wgetrc
+whoopsie
+wpa_supplicant
+X11
+xdg
+xml
+zsh_command_not_found
+user@epk428-3:/etc$ ls | head
+acpi
+adduser.conf
+alternatives
+anacrontab
+apache2
+apg.conf
+apm
+apparmor
+apparmor.d
+apport
+user@epk428-3:/etc$ head -n 3
+
+
+^L
+
+
+/pwd             
+/pwd
+user@epk428-3:/etc$ ls | -n 3
+-n: command not found
+user@epk428-3:/etc$ ls | head -n 3
+acpi
+adduser.conf
+alternatives
+user@epk428-3:/etc$ ls | head -n 3 | wc
+      3       3      31
+user@epk428-3:/etc$ ls | head -n 3 | wc -l
+3
+user@epk428-3:/etc$ ls | head -n 3 | wc -c
+31
+user@epk428-3:/etc$ ls | wc -c
+2720
+user@epk428-3:/etc$ cd
+user@epk428-3:~$ 
+user@epk428-3:~$ ls
+ Desktop     Downloads   Pictures   Templates  'VirtualBox VMs'
+ Documents   Music       Public     Videos
+user@epk428-3:~$ ls Desktop/
+abc  abC  aBC  Abc  ABc  ABC
+user@epk428-3:~$ ls | wc -c
+82
+user@epk428-3:~$ 
+user@epk428-3:~$ ls Desktop/ | wc -c
+24
+user@epk428-3:~$ ls Desktop/ | wc -m
+24
+user@epk428-3:~$ ls Desktop/ | wc -n
+wc: invalid option -- 'n'
+Try 'wc --help' for more information.
+user@epk428-3:~$ 
+
+
+
+
+
+
+
+
