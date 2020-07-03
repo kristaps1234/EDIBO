@@ -1,5 +1,43 @@
 pwd (atrašanās vieta)
 
-cd - charge directory
+cd - charge directory, pārvietošanās
 
-ls 
+ls - apkārtnes izzināšana
+
+exit() vai Ctrl + D - izziešana no python
+
+ls -l - parāda izveidotās mapes
+
+cd desktop + ls - paskatīties, kas atrodas uz desktopa
+
+lai tiktu atpakaļ uz parasto režīmu (user) 1. cd 2. pwd - pārbaudei
+
+mkdir - mapes izveidošanas komanda (piemēran mkdir ABC)
+
+ls | head -n 3 | wc  | -l - lines; -c - characters
+
+ls |wc -c 
+
+ls desktop |wc -c
+
+ls | head - pirmie 10
+
+ls| tail - pēdējie 10
+
+cd/ tab X2 - piedāvā opcijaa, kur var aiziet
+
+Atkārtojumam: Ctrl + Alt + T - lai iegūtu terminālu
+
+Tab opcija - lai pārvaldītu logus - mainīy interface
+
+Ctrl + L- komanda notīra terminālu
+
+echo $((2+2)) - aritmētiskā formula, ko izmanto terminālī (python var vienkārši saskaitīt 2+2 un iegūt rezultātu)
+
+echo $(($a+$b))
+
+terminal - shell - console
+
+ls -l*.txt - parāda visus txt failus
+
+cat a.txt, head a.txt, til a.txt
