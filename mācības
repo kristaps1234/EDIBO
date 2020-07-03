@@ -34,6 +34,8 @@ Ctrl + L- komanda notīra terminālu
 
 echo $((2+2)) - aritmētiskā formula, ko izmanto terminālī (python var vienkārši saskaitīt 2+2 un iegūt rezultātu)
 
+![terminal common commands](https://user-images.githubusercontent.com/67696837/86453406-6474bb00-bd26-11ea-918a-6f0c8a7e1434.png)
+
 echo $(($a+$b))
 
 terminal - shell - console
