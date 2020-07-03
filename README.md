@@ -21,3 +21,7 @@ hexdump -C
 adresses: absolute (/) <-- root directory, relative (., .., ~)
 rwx - read, write, execute
 
+$ for i in {0..100}; do echo "$i $((i*i)) $((i*i)) $((i*i))"; done
+
+$ for i in {0..5}; do echo "$i $((i*i))"; done
+
