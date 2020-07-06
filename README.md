@@ -50,4 +50,9 @@ df -h | grep sda2 -> lai paskatītos izvēlēto rindu, vienu pašu
 df | egrep sda2
 (f.e) man grep - lasa dokumentāciju ->> shift + G - (pēdējais ieraksts), G+G (pirmais ieraksts)
 
+df /home | awk '{ print $5 }' | sed 's/|//' - **dod precīzus procentus!!!!!!!!!!**
+
+df -h |egrep sda2 | awk '{print ($3)/$2*100 "%"}' 
+
+df -k /home | awk '{ print $5 }'|grep %|cut -d% -f 1
 
