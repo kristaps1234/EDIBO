@@ -25,3 +25,29 @@ $ for i in {0..100}; do echo "$i $((i*i)) $((i*i)) $((i*i))"; done
 
 $ for i in {0..5}; do echo "$i $((i*i))"; done
 
+dc /etc - nonāk citā root?
+
+ls -l /usr/bin/vi  /// ls -l `whereis vim` (using backticks)
+
+df - disk space usage
+
+df -m -> 1mb blokos
+
+df -h 
+
+ls /dev/ -> visas ierīces
+
+history >h.txt
+
+du - disk usage
+
+du -h -> cik aizņem vietas
+
+df -h/dev/sda2 - apskata izmantošanu
+
+df -h | grep sda2 -> lai paskatītos izvēlēto rindu, vienu pašu
+
+df | egrep sda2
+(f.e) man grep - lasa dokumentāciju ->> shift + G - (pēdējais ieraksts), G+G (pirmais ieraksts)
+
+
