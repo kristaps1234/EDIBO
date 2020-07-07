@@ -55,4 +55,7 @@ df | egrep sda2
 2. df -h |egrep sda2 | awk '{print ($3)/$2*100 "%"}' 
 
 3. df -k /home | awk '{ print $5 }'|grep %|cut -d% -f 1
+  
 
+[Gnuplot](http://www.gnuplot.info/docs_4.6/gnuplot.pdf)
+  
