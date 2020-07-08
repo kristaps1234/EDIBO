@@ -59,3 +59,38 @@ df | egrep sda2
 
 [Gnuplot](http://www.gnuplot.info/docs_4.6/gnuplot.pdf)
   
+  tsugi.sakai.lv
+  
+  ifconfig
+  
+  python -m http.server
+  
+  curl
+  
+  6. diena
+  
+  wget
+  
+123 -> 123:2=61 -> 61:2 -> 30 -> 30:2=15 -> 15:2=7 -> 7:2=3 -> 3:2=1 -> 1:2=0 ***(Rīkojas ar veseliem skaitļiem, atmetot 1)*** -> 1111,011 **0** 123=01111011 in binary
+  
+ $ D2B=({0,1}{0,1}{0,1}{0,1}{0,1}{0,1}{0,1}{0,1})
+$ echo ${D2B[7]}
+00000111
+$ echo ${D2B[123]}
+01111011
+
+#! /bin/bash
+n=123
+rezultats=0
+pakape=1
+
+while [ $ -ne 0 ]
+do
+        atlikums=$(( $n % 2 ))
+        rezultats=$(( $atlikums * $pakape + $rezultats ))
+        pakape=$(( $pakape * 10 ))
+        n=$(( $n / 2 ))
+done
+
+echo "Binārais skaitlis, skaitlim 123= $rezultats"
+
