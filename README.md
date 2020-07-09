@@ -128,6 +128,7 @@ tba...
 
 
 [courses](https://www.udemy.com/courses/search/?price=price-free&q=BASH&sort=relevance)
+
 [ASCII](http://www.ecowin.org/ascii.htm)
 
  ***Day 7***
@@ -181,6 +182,10 @@ total 8
 -rw-r--r-- 1 user user 2 Jul  9 15:04 a.dat
 -rw-r--r-- 1 user user 1 Jul  9 15:04 b.dat
 
+python
+
+**del z (izdzēš kādu ierakstu piem. a = 123)**
+
 ipython:
 
 type(s) str
@@ -203,3 +208,8 @@ a%2 = a modula = 1
 8%2 = 3
 
 pakāpe ** s ** 100..
+
+| DEC  | Binary| Hex|
+| ---- | ----- | ---|
+|  0   | 0000  |  0 |
+|  1   | 0010  |  2 | tba
