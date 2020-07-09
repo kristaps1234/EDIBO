@@ -94,3 +94,4 @@ done
 
 echo "Binārais skaitlis, skaitlim 123= $rezultats"
 
+[Understanding module in python](https://www.youtube.com/watch?v=b5cb_nfDyyM)
