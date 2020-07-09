@@ -95,3 +95,111 @@ done
 echo "Binārais skaitlis, skaitlim 123= $rezultats"
 
 [Understanding module in python](https://www.youtube.com/watch?v=b5cb_nfDyyM)
+
+operating with github through terminal:
+
+(ex...)
+
+cd ~/Desktop
+
+mkdir myproject
+
+cd myproject/
+
+git init
+
+touch (ex...1234.txt)
+
+ls
+
+1234.txt
+
+git status
+
+git add 1234.txt
+
+git commit -m "text"
+
+git checkout -b <branch name>
+  
+git branch
+
+tba...
+
+
+[courses](https://www.udemy.com/courses/search/?price=price-free&q=BASH&sort=relevance)
+[ASCII](http://www.ecowin.org/ascii.htm)
+
+ ***Day 7***
+ 
+ printf
+ 
+ hexdump -c, -v, -C, -x, -o
+ printf (tba.) | hexdump -c, -v, -C...
+ 
+ printf ... | hd -c, -C...
+ 
+ 
+
+$ mkdir 20200709
+$ cd 20200709
+$ pwd
+/home/user/20200709
+$ ls -la
+total 8
+drwxr-xr-x  2 user user 4096 Jul  9 14:56 .
+drwxr-xr-x 27 user user 4096 Jul  9 14:56 ..
+$ ls -a
+.  ..
+$ touch a.dat
+$ ls -a
+.  ..  a.dat
+$ ls -l a.dat 
+-rw-r--r-- 1 user user 0 Jul  9 15:00 a.dat
+$ cat a.dat 
+$ 
+
+
+
+
+$ echo 1 > a.dat
+$ ls -l
+total 4
+-rw-r--r-- 1 user user 2 Jul  9 15:01 a.dat
+$ echo a  > a.dat
+$ ls -l a.dat 
+-rw-r--r-- 1 user user 2 Jul  9 15:02 a.dat
+$ echo A  > a.dat
+$ ls -l a.dat 
+-rw-r--r-- 1 user user 2 Jul  9 15:03 a.dat
+$ echo A
+A
+$ echo A  > a.dat
+$ printf A  > b.dat
+$ ls -l
+total 8
+-rw-r--r-- 1 user user 2 Jul  9 15:04 a.dat
+-rw-r--r-- 1 user user 1 Jul  9 15:04 b.dat
+
+ipython:
+
+type(s) str
+
+type(2) - int
+
+s2 = str(s2)
+
+type(s2)
+
+str
+
+s+s2
+
+a/2=61.5
+
+a//2=61
+a%2 = a modula = 1
+
+8%2 = 3
+
+pakāpe ** s ** 100..
