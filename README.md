@@ -250,3 +250,21 @@ DAY 8
 b = b'123'
 
 b'123'
+
+In [105]: for i in range(5):
+     ...:     for j in range(2):
+     ...:         print(i, j)
+     ...:         
+     ...:     
+0 0
+0 1
+1 0
+1 1
+2 0
+2 1
+3 0
+3 1
+4 0
+4 1
+
+[Paskāla trijstūris](https://code.sololearn.com/c429kyeqhpSL/#py)
