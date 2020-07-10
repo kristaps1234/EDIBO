@@ -268,3 +268,59 @@ In [105]: for i in range(5):
 4 1
 
 [Paskāla trijstūris](https://code.sololearn.com/c429kyeqhpSL/#py)
+
+In [256]: s = """
+     ...: Godājamais x,
+     ...: Jums ir pienācis naudas pārvedums
+     ...: ar vertību y EUR
+     ...: Lai saņemtu naudu, atsūtiet
+     ...: īsziņu uz tel. numuru z 
+     ...: 
+     ...: Cieņā,
+     ...:         atraitne
+     ...: """
+     ...: 
+     ...: 
+
+In [257]: s
+Out[257]: '\nGodājamais x,\nJums ir pienācis naudas pārvedums\nar vertību y EUR\nLai saņemtu naudu, atsaūtiet\nīsziņu uz tel. numuru z \n\nCieņā,\n        atraitne\n'
+
+In [258]: print(s)
+
+Godājamais x,
+Jums ir pienācis naudas pārvedums
+ar vertību y EUR
+Lai saņemtu naudu, atsūtiet
+īsziņu uz tel. numuru z 
+
+Cieņā,
+        atraitne
+
+t =  "summa = %s, valūta = %s"%(2,'EUR')
+
+
+In [319]: x = "Jāni's,"
+     ...: y = 100      
+     ...: z = +34254673
+     ...: 
+     ...: 
+     ...:        
+     ...:              
+     ...: s = """                          
+     ...: Godājamais %s                    
+     ...: Jums ir pienācis naudas pārvedums
+     ...: ar vērtību %d EUR         
+     ...: Lai saņemtu naudu atsūtiet
+     ...: īsziņu uz telefona nr. %d
+     ...:                   
+     ...: Cieņā,            
+     ...:          Atraitne.
+     ...: """  %(x,y,z)
+     ...:         
+     ...: print(s)
+     ...:              
+     ...:              
+     ...: # %s = string
+     ...: # %d = int
+     ...: 
+
