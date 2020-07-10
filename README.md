@@ -325,3 +325,218 @@ In [319]: x = "Jāni's,"
      ...: 
 
 
+
+In [8]: f = open("a.dat", "w")
+
+In [9]: type(f)
+Out[9]: _io.TextIOWrapper
+
+In [10]: dir(f)
+Out[10]: 
+['_CHUNK_SIZE',
+ '__class__',
+ '__del__',
+ '__delattr__',
+ '__dict__',
+ '__dir__',
+ '__doc__',
+ '__enter__',
+ '__eq__',
+ '__exit__',
+ '__format__',
+ '__ge__',
+ '__getattribute__',
+ '__getstate__',
+ '__gt__',
+ '__hash__',
+ '__init__',
+ '__init_subclass__',
+ '__iter__',
+ '__le__',
+ '__lt__',
+ '__ne__',
+ '__new__',
+ '__next__',
+ '__reduce__',
+ '__reduce_ex__',
+ '__repr__',
+ '__setattr__',
+ '__sizeof__',
+ '__str__',
+ '__subclasshook__',
+ '_checkClosed',
+ '_checkReadable',
+ '_checkSeekable',
+ '_checkWritable',
+ '_finalizing',
+ 'buffer',
+ 'close',
+ 'closed',
+ 'detach',
+ 'encoding',
+ 'errors',
+ 'fileno',
+ 'flush',
+ 'isatty',
+ 'line_buffering',
+ 'mode',
+ 'name',
+ 'newlines',
+ 'read',
+ 'readable',
+ 'readline',
+ 'readlines',
+ 'seek',
+ 'seekable',
+ 'tell',
+ 'truncate',
+ 'writable',
+ 'write',
+ 'writelines']
+
+In [11]: f.closed
+Out[11]: False
+
+In [12]: 
+    ...: f.
+  File "<ipython-input-12-ded12ecb1fb1>", line 2
+    f.
+      ^
+SyntaxError: invalid syntax
+
+
+In [13]: f.tell()
+Out[13]: 0
+
+In [14]: f.write("Hello")
+Out[14]: 5
+
+In [15]: f.close()
+
+In [16]: f.tell()
+---------------------------------------------------------------------------
+ValueError                                Traceback (most recent call last)
+<ipython-input-16-3c1a8772273a> in <module>()
+----> 1 f.tell()
+
+ValueError: I/O operation on closed file.
+
+In [17]: f = open("a.dat", "w")
+
+In [18]: f.tell()
+Out[18]: 0
+
+In [19]: f.write("\n\tHelloz\n")
+Out[19]: 9
+
+In [20]: f.close()
+
+In [21]: f = open("a.dat", "a")
+
+In [22]: f.write("\n\tHelloz\n")
+Out[22]: 9
+
+In [23]: f.tell()
+Out[23]: 18
+
+In [24]: f.close()
+
+In [25]: f = open("a.dat")
+
+In [26]: f.tell()
+Out[26]: 0
+
+In [27]: f.readline()
+Out[27]: '\n'
+
+In [28]: f.readlines()
+Out[28]: ['\tHelloz\n', '\n', '\tHelloz\n']
+
+In [29]: f.tell()
+Out[29]: 18
+
+In [30]: f.readline()
+Out[30]: ''
+
+In [31]: f
+Out[31]: <_io.TextIOWrapper name='a.dat' mode='r' encoding='UTF-8'>
+
+In [32]: f.readline()
+Out[32]: ''
+
+In [33]: f.readline()
+Out[33]: ''
+
+In [34]: f
+Out[34]: <_io.TextIOWrapper name='a.dat' mode='r' encoding='UTF-8'>
+
+In [35]: f.write("\n\tHelloz\n")
+---------------------------------------------------------------------------
+UnsupportedOperation                      Traceback (most recent call last)
+<ipython-input-35-c796ca1b52c7> in <module>()
+----> 1 f.write("\n\tHelloz\n")
+
+UnsupportedOperation: not writable
+
+In [36]: f.tell()
+Out[36]: 18
+
+In [37]: f.seek(0)
+Out[37]: 0
+
+In [38]: f.readline()
+Out[38]: '\n'
+
+In [39]: f.readline()
+Out[39]: '\tHelloz\n'
+
+In [40]: f.readline()
+Out[40]: '\n'
+
+In [41]: f.readline()
+Out[41]: '\tHelloz\n'
+
+In [42]: f.readline()
+Out[42]: ''
+
+In [43]: f.seek(0)
+Out[43]: 0
+
+In [44]: f.readline()
+Out[44]: '\n'
+
+In [45]: f.close()
+
+In [46]: f = open("a.dat")
+
+In [47]: f.close()
+
+In [48]: f = open("a.dat", "a")
+
+In [49]: f.write("123")
+Out[49]: 3
+
+In [50]: f.tell()
+Out[50]: 21
+
+In [51]: f.close()
+
+^(BASH) > $ cat a.dat
+
+	Helloz
+$ cat a.dat
+
+	Helloz
+
+	Helloz
+$ cat a.dat
+
+	Helloz
+
+	Helloz
+$ cat a.dat
+
+	Helloz
+
+
+
