@@ -213,3 +213,40 @@ pakāpe ** s ** 100..
 | ---- | ----- | ---|
 |  0   | 0000  |  0 |
 |  1   | 0010  |  2 | tba
+
+c.reverse()
+
+c.sort()
+
+c.sort(reverse=true)
+
+c.append - pievieno listes aizmugurē
+
+c.pop()
+
+d={} type=dict.
+
+c=(11,22) -> type(c) = tuple
+
+c.remove["piemērs"]
+
+d={'abols':'apple'} in: d['abols'] output: 'apple'
+
+d.update({"bumbieris":'birne'})
+
+d - tiek apvienota vārdnīca
+
+d.pop('abols')
+
+d.update({"mylint": 1234})
+
+d['mylist'][-1].lower()
+'ŗtu'
+
++.capitalize() -> 'Rtu'
+
+DAY 8 
+
+b = b'123'
+
+b'123'
