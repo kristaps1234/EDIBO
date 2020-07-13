@@ -1,5 +1,8 @@
 #!/bin/bash
+if [ $# == 1 ]
+then
 git config --global user.email Kristaps.voiculis@gmail.com
 git add . 
 git commit -m "20200703_16_25"
 git push origin master
+fi
