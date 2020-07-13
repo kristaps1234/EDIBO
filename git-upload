@@ -1,9 +1,9 @@
 #!/bin/bash
 if [ $# == 1 ]
-then
+then 
 git config --global user.email Kristaps.voiculis@gmail.com
 git add .
 git commit -m $1
 git pull
-git push origin master
+git push -f origin master
 fi

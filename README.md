@@ -540,6 +540,27 @@ $ cat a.dat
 
 ![WEB](https://www.tutorialspoint.com/web_developers_guide/web_hosting_concepts.htm)
 
+<<<<<<< HEAD
 ![How it works](https://www.tutorialspoint.com/web_developers_guide/web_how_it_works.htm)
+=======
+WEB!
+
+***How it works!***
+
+In Short
+
+We have seen how a Web client - server interaction happens. We can summarize these steps as follows −
+
+A user enters a URL into a browser (for example, Google.com. This request is passed to a domain name server.
+
+The domain name server returns an IP address for the server that hosts the Website (for example, 68.178.157.132).
+
+The browser requests the page from the Web server using the IP address specified by the domain name server.
+
+The Web server returns the page to the IP address specified by the browser requesting the page. The page may also contain links to other files on the same server, such as images, which the browser will also request.
+
+The browser collects all the information and displays to your computer in the form of Web page.
+
+>>>>>>> d763a514596ab39744162dc347c2b9605b1c0d4a
 
 ![Basic concepts](https://www.tutorialspoint.com/web_developers_guide/web_basic_concepts.htm)
