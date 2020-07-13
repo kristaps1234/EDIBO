@@ -232,7 +232,7 @@ c.remove["piemērs"]
 
 d={'abols':'apple'} in: d['abols'] output: 'apple'
 
-d.update({"bumbieris":'birne'})
+git clone http://github.com/Kristaps1234/EDIBOd.update({"bumbieris":'birne'})
 
 d - tiek apvienota vārdnīca
 
@@ -538,5 +538,8 @@ $ cat a.dat
 
 	Helloz
 
+![WEB](https://www.tutorialspoint.com/web_developers_guide/web_hosting_concepts.htm)
 
+![How it works](https://www.tutorialspoint.com/web_developers_guide/web_how_it_works.htm)
 
+![Basic concepts](https://www.tutorialspoint.com/web_developers_guide/web_basic_concepts.htm)
