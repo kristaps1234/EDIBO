@@ -564,3 +564,5 @@ The browser collects all the information and displays to your computer in the fo
 >>>>>>> d763a514596ab39744162dc347c2b9605b1c0d4a
 
 ![Basic concepts](https://www.tutorialspoint.com/web_developers_guide/web_basic_concepts.htm)
+
+![Making graphs using JS](https://canvasjs.com/javascript-charts/multi-series-chart/)
