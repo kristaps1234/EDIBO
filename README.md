@@ -1,10 +1,12 @@
-# EDIBO
-EDIBO projekta elektroniskā klade
+## EDIBO 
 
-mans pirmais ieraksts!
-[GitHub pages](https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax)
+### mans pirmais ieraksts!
 
-![terminal common commands](https://user-images.githubusercontent.com/67696837/86453406-6474bb00-bd26-11ea-918a-6f0c8a7e1434.png)
+![GitHub pages](https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax)
+
+## ![terminal common commands](https://user-images.githubusercontent.com/67696837/86453406-6474bb00-bd26-11ea-918a-6f0c8a7e1434.png)
+
+Day 1
 
 Noderīgi paņēmieni:
 
@@ -43,7 +45,8 @@ du - disk usage
 
 du -h -> cik aizņem vietas
 
-df -h/dev/sda2 - apskata izmantošanu
+df -h/dev/sda2 - apskata izmantošan
+
 
 df -h | grep sda2 -> lai paskatītos izvēlēto rindu, vienu pašu
 
