@@ -566,3 +566,19 @@ The browser collects all the information and displays to your computer in the fo
 ![Basic concepts](https://www.tutorialspoint.com/web_developers_guide/web_basic_concepts.htm)
 
 ![Making graphs using JS](https://canvasjs.com/javascript-charts/multi-series-chart/)
+
+2020.07.14
+
+Entering github using terminal:
+
+git clone http://github.com/usernam/EDIBO
+
+To upload from terminal to github.com
+
+./git-upload
+
+./git-upload 20200713_18_10
+
+usr:
+psw:
+
