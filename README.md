@@ -574,7 +574,7 @@ The browser collects all the information and displays to your computer in the fo
 
 Entering github using terminal:
 
-git clone http://github.com/usernam/EDIBO
+git clone http://github.com/username/EDIBO
 
 To upload from terminal to github.com
 
