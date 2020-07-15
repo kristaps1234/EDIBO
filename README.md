@@ -591,3 +591,31 @@ export NVM_DIR="$HOME/.nvm" && (
   git checkout `git describe --abbrev=0 --tags --match "v[0-9]*" $(git rev-list --tags --max-count=1)`
 ) && \. "$NVM_DIR/nvm.sh"
 
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=>, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <today-date>Yes</today-date>
+
+    <script>   
+        
+        class TodayDateComponent extends HTMLElement {
+            constructor(){
+                super();
+                
+                this.innerText=new Date();
+                
+            }
+        }
+        const comp = customElements.define('today-date', TodayDateComponent);
+
+    </script>
+</body>
+</html>
