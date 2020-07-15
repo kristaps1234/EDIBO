@@ -593,6 +593,7 @@ export NVM_DIR="$HOME/.nvm" && (
 
 
 
+Visual studios:
 
 <!DOCTYPE html>
 <html lang="en">
@@ -619,3 +620,53 @@ export NVM_DIR="$HOME/.nvm" && (
     </script>
 </body>
 </html>
+
+
+a.js:
+
+class TodayDateComponent extends HTMLElement {
+    constructor(){
+        super();
+        
+        this.innerText=new Date();
+        
+    }
+}
+const comp = customElements.define('today-date', TodayDateComponent);
+
+index.html:
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=>, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <today-date>Yes</today-date>
+
+ <script src="a.js"></script> 
+ 
+ ***
+ 
+        
+        
+
+</body>
+</html>
+
+
+class TodayDateComponent extends HTMLElement {
+    constructor(){
+        super();
+        setInterval(() => {
+            this.innerText = new Date();
+        }, 1000);
+    }
+        
+        
+        
+    
+}
+const comp = customElements.define('today-date', TodayDateComponent);
