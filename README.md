@@ -670,3 +670,29 @@ class TodayDateComponent extends HTMLElement {
     
 }
 const comp = customElements.define('today-date', TodayDateComponent);
+
+***
+
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
+using Microsoft.AspNetCore.Mvc;
+using Microsoft.Extensions.Logging;
+
+namespace MyFirstWebApi.Controllers
+{
+    [Route("api/[controller]")]
+    [ApiController]
+    public class MyValuesController : ControllerBase
+    {
+        // HttpGetAttribute api/Myvalues
+        [HttpGet]
+
+        public ActionResult<IEnumerable<string>> GetAction()
+        {
+            return new string[] {"Kristaps", "July", "2020", "EDIBO", "RTU"};
+        }
+    }
+}
