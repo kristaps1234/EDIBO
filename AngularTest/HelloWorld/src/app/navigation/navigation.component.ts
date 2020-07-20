@@ -1,13 +1,9 @@
 import {Component} from '@angular/core';
 
-/**
- * @title Autosize sidenav
- */
+/** @title Basic drawer */
 @Component({
-  selector: 'sidenav-autosize-example',
-  templateUrl: 'sidenav-autosize-example.html',
-  styleUrls: ['sidenav-autosize-example.css'],
+  selector: 'sidenav-drawer-overview-example',
+  templateUrl: 'sidenav-drawer-overview-example.html',
+  styleUrls: ['sidenav-drawer-overview-example.css'],
 })
-export class NavigationComponent {
-  showFiller = false;
-}
+export class SidenavDrawerOverviewExamplenagi {}
