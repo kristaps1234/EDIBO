@@ -1,0 +1,48 @@
+<h1>Laika ziņas</h1>
+<!-- <h2>Datumes no {{startDate}} lidz {{endDate}}</h2> -->
+ <h2>Datumi ...</h2>
+
+<table class="table table-border">
+  <thead>
+    <th>Datums</th>
+    <th>Temperatūra C</th>
+    <th>Temperatūra F</th>
+    <th>Slēdzines</th>
+  </thead>
+  <tbody>
+    <tr *ngFor="let temperature of temperatures">
+      <td>{{temperature[1].date}}</td>
+      <td>{{temperature[1].temperatureC}}</td>
+      <td>{{temperature[1].temperatureF}}</td>
+      <td>{{temperature[1].summary}}</td>
+    </tr>
+  </tbody>
+</table>
+
+<div>
+  {{temperatures[1][1].date | json}}
+</div>
+
+<div>
+  {{temperatures | json}}
+</div>
+
+<!-- <h1>Valuta: {{baseRate}}</h1>
+<h2>Datumes no {{startDate}} lidz {{endDate}}</h2>
+<table class="table table-border">
+  <thead>
+    <th>Datums</th>
+    <th>Gbp</th>
+    <th>Usd</th>
+  </thead>
+  <tbody>
+    <tr *ngFor="let rate of rates">
+      <td>{{rate.date}}</td>
+      <td>{{rate.rate.USD}}</td>
+      <td>{{rate.rate.GBP}}</td>
+    </tr>
+  </tbody>
+</table>
+<div>
+  {{rates | json}}
+</div> -->

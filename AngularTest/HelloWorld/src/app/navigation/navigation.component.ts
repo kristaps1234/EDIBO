@@ -4,11 +4,10 @@ import {Component} from '@angular/core';
  * @title Autosize sidenav
  */
 @Component({
-  selector: 'app-NavigationComponent',
-  templateUrl: './navigation.component.html',
-  styleUrls: ['./navigation.component.css'],
+  selector: 'sidenav-autosize-example',
+  templateUrl: 'sidenav-autosize-example.html',
+  styleUrls: ['sidenav-autosize-example.css'],
 })
-
 export class NavigationComponent {
-  showFiller = true;
+  showFiller = false;
 }

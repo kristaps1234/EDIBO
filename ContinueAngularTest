@@ -25,6 +25,7 @@ echo "export NVM_DIR="$HOME/.nvm"
 
 npm i -g @angular/cli
 mv EDIBO/AngularTest/HelloWorld EDIBO/AngularTest/HelloWorldLegacy
+ls EDIBO/AngularTest
 cd EDIBO/AngularTest
 ng new HelloWorld
 cd HelloWorld

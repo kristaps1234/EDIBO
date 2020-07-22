@@ -696,3 +696,35 @@ namespace MyFirstWebApi.Controllers
         }
     }
 }
+
+WED. 22nd July
+
+ng g c profile , gallery
+
+Lazy loading, eager loading
+
+loading="lazy"
+
+MicroFrontend - piemērs (Spotify)
+
+1. Routing module
+
+2. <Routing-outlet>
+
+Tatjana:
+
+Mainīgais (kur tas ir deklarēts --> id_name -> RAM => atmiņas apgabals tiek piešķirts mainīgajam!
+ vai definēt?)
+
+mainīgo masīvs <element data type> - id_name[]  | if (else)		| switch	
+^				             ^0 |----------------------	|
+(...) tuple size =/ var []			|    (elif)	        |
+[...] list size = var []			|----------------------	|		
+{:,...,:,...:} dictionary size = var [X]	|for /while/do   while	|
+						| (break,Continue)	|
+                     				-------------------------
+						user_function(angular apraksts)	
+						return |_| 
+
+
+

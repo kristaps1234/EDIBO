@@ -4,8 +4,6 @@
 
 export const environment = {
   production: false
-  // ratesUrl: 'https://api.exchangeratesapi.io/history?start_at=2018-01-01&end_at=2018-09-01&symbols={symbols}&base={base}'\,
-  // ratesUrl1: 'localhost:5000/WeatherForecast'
 };
 
 /*
