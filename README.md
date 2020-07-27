@@ -4,7 +4,7 @@
 
 [GitHub pages](https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax)
 
-## ![terminal common commands](https://user-images.githubusercontent.com/67696837/86453406-6474bb00-bd26-11ea-918a-6f0c8a7e1434.png)
+## [terminal common commands](https://user-images.githubusercontent.com/67696837/86453406-6474bb00-bd26-11ea-918a-6f0c8a7e1434.png)
 
 Day 1
 
@@ -541,10 +541,10 @@ $ cat a.dat
 
 	Helloz
 
-![WEB](https://www.tutorialspoint.com/web_developers_guide/web_hosting_concepts.htm)
+[WEB](https://www.tutorialspoint.com/web_developers_guide/web_hosting_concepts.htm)
 
 <<<<<<< HEAD
-![How it works](https://www.tutorialspoint.com/web_developers_guide/web_how_it_works.htm)
+[How it works](https://www.tutorialspoint.com/web_developers_guide/web_how_it_works.htm)
 =======
 WEB!
 
@@ -566,9 +566,9 @@ The browser collects all the information and displays to your computer in the fo
 
 >>>>>>> d763a514596ab39744162dc347c2b9605b1c0d4a
 
-![Basic concepts](https://www.tutorialspoint.com/web_developers_guide/web_basic_concepts.htm)
+[Basic concepts](https://www.tutorialspoint.com/web_developers_guide/web_basic_concepts.htm)
 
-![Making graphs using JS](https://canvasjs.com/javascript-charts/multi-series-chart/)
+[Making graphs using JS](https://canvasjs.com/javascript-charts/multi-series-chart/)
 
 2020.07.14
 
