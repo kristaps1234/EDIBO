@@ -728,3 +728,24 @@ mainīgo masīvs <element data type> - id_name[]  | if (else)		| switch
 
 
 
+2020.07.29
+
+(SQL)
+
+>sqlite3
+
+.quit - lai izietu
+
+.help - palīdzība
+
+.databases - lai noskaidrotu visas datubāzes
+
+.open test.db
+
+.databases
+
+create table tbl1(one varchar(10), two smallint); - izveido tabulu
+
+PIEMĒRS - create table mana_tabula(lauks1 smallint, lauks2 varchar(5));
+
+
