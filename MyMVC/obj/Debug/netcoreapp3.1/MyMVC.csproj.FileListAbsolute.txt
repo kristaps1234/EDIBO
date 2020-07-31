@@ -73,3 +73,4 @@
 /home/user/EDIBO/MyMVC/obj/Debug/netcoreapp3.1/MyMVC.genruntimeconfig.cache
 /home/user/EDIBO/MyMVC/obj/Debug/netcoreapp3.1/MyMVC.csproj.CopyComplete
 /home/user/EDIBO/MyMVC/obj/Debug/netcoreapp3.1/Razor/Views/HelloWorld/index.cshtml.g.cs
+/home/user/EDIBO/MyMVC/obj/Debug/netcoreapp3.1/Razor/Views/HelloWorld/Welcome.cshtml.g.cs
