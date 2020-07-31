@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "n11HQloS9ZdngS+hUAl3x8B9hd//we7TwPhmzyyhD+/H6pOAIxgDfUNAbPignTBOEAphtfjPX8GO6yQsUcq05g==",
+  "dgSpecHash": "aJtt9HSuNp423jaYkgHpBLShJBu/zqVzSkunmRiHasiafQT6FfGn5pGGS2K7MJmdkh6LQFwcCfiGWC07owpLdw==",
   "success": true,
-  "projectFilePath": "/home/user/dev/MyMVC/MyMVC.csproj",
+  "projectFilePath": "/home/user/EDIBO/MyMVC/MyMVC.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

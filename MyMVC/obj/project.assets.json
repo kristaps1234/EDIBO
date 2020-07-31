@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/user/dev/MyMVC/MyMVC.csproj",
+      "projectUniqueName": "/home/user/EDIBO/MyMVC/MyMVC.csproj",
       "projectName": "MyMVC",
-      "projectPath": "/home/user/dev/MyMVC/MyMVC.csproj",
+      "projectPath": "/home/user/EDIBO/MyMVC/MyMVC.csproj",
       "packagesPath": "/home/user/.nuget/packages/",
-      "outputPath": "/home/user/dev/MyMVC/obj/",
+      "outputPath": "/home/user/EDIBO/MyMVC/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/user/.nuget/NuGet/NuGet.Config"
