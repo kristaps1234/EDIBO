@@ -749,3 +749,8 @@ create table tbl1(one varchar(10), two smallint); - izveido tabulu
 PIEMĒRS - create table mana_tabula(lauks1 smallint, lauks2 varchar(5));
 
 
+20200731
+
+SQL turpinājums
+
+
